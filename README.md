@@ -31,7 +31,7 @@ Follow the steps below to run the project locally.
 
 **1. Clone the repository**
 ```bash
-git clone <repo-url>
+git clone https://github.com/adityaabhinab/Manzil-Bus-Reservation-System.git
 ```
 
 **2. Compile the source files**
